@@ -22,7 +22,7 @@ admin ----> puede crear facturas y personas
 user  ----> solo puede crear factura
 
 ----------------------------------
-al instalar el backend se crear el suario administrador
+al instalar el backend se crea el usuario administrador
 
 correo:     admin@admin.com
 contraseña: admin
