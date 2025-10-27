@@ -1,3 +1,5 @@
+//Proyecto facturacion
+
 1. cambiar la ruta api bakend(si es el caso)
 
 lib/axios.js
@@ -11,6 +13,19 @@ npm install
 
 3. ejecutar servidor
 npm run dev
+
+------------------------------------
+
+existen 2 roles
+
+admin ----> puede crear facturas y personas
+user  ----> solo puede crear factura
+
+----------------------------------
+al instalar el backend se crear el suario administrador
+
+correo:     admin@admin.com
+contraseña: admin
 
 
 # Vue 3 + Vite
